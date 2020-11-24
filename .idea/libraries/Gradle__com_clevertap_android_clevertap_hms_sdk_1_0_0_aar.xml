@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.clevertap.android:clevertap-hms-sdk:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf6bed48e88248f51dd4d8683e65497/clevertap-hms-sdk-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf6bed48e88248f51dd4d8683e65497/clevertap-hms-sdk-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.clevertap.android/clevertap-hms-sdk/1.0.0/26f2ffde9aab0f08aba8947d6e4ce6c71918b574/clevertap-hms-sdk-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

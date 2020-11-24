@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "477501228638",
+    "firebase_url": "https://aiceshi-28c17.firebaseio.com",
+    "project_id": "aiceshi-28c17",
+    "storage_bucket": "aiceshi-28c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477501228638:android:fa7c58e48cb32d45eed6cf",
+        "android_client_info": {
+          "package_name": "com.huluwa.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477501228638-nsf4fdj75cbskgqjf5q4l6la4te2tddp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnk4Yi5xcr9wGyBLbqCWLsUvWemSyfCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477501228638-nsf4fdj75cbskgqjf5q4l6la4te2tddp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477501228638:android:722e015b5012dad9eed6cf",
+        "android_client_info": {
+          "package_name": "com.ibm.mobilefirstplatform.clientsdk.android.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477501228638-nsf4fdj75cbskgqjf5q4l6la4te2tddp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnk4Yi5xcr9wGyBLbqCWLsUvWemSyfCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477501228638-nsf4fdj75cbskgqjf5q4l6la4te2tddp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477501228638:android:d07cf184d9fc5516eed6cf",
+        "android_client_info": {
+          "package_name": "com.ibm.mysampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477501228638-nsf4fdj75cbskgqjf5q4l6la4te2tddp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnk4Yi5xcr9wGyBLbqCWLsUvWemSyfCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477501228638-nsf4fdj75cbskgqjf5q4l6la4te2tddp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477501228638:android:5b60f9e9c44a44d5eed6cf",
+        "android_client_info": {
+          "package_name": "com.panda.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477501228638-nsf4fdj75cbskgqjf5q4l6la4te2tddp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnk4Yi5xcr9wGyBLbqCWLsUvWemSyfCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477501228638-nsf4fdj75cbskgqjf5q4l6la4te2tddp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+//include ':CatchMediaPushDemo'
+include ':CleverTapPushDemo'
+//include ':MoEngagePushDemo'
+//include ':VizuryPushDemo'
+//include ':IndigitallPushDemo'
+//include ':WonderpushPushDe0mo'
+//include ':PlotprojectsPushDemo'
+//include ':AirshipPushDemo'
+//include ':OneSignalPushDemo'
+//include ':NetmeraPushDemo'
+
+// 测试某个厂商可以把其他厂商注释掉，会加快编译速度
